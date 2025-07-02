@@ -179,3 +179,4 @@ function setTextStyle() { echo -en "$1"; }
 
 source $HOME/.config/shell/aliases
 
+. "$HOME/.cargo/env"
