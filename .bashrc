@@ -177,3 +177,5 @@ function setTextStyle() { echo -en "$1"; }
 #XDG RUNTIME DIRECTORY
 #export XDG_RUNTIME_DIR=/run/user/1000
 
+source $HOME/.config/shell/aliases
+
